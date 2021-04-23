@@ -1,0 +1,35 @@
+{
+	"produtos":[
+		
+		{ 
+		"id": 1, 
+		"produto": "Playstation 5",
+		"preço": "R$5.000,00",
+		},
+
+		{ 
+		"id": 2, 
+		"produto": "Playstation 4",
+		"preço": "R$3.000,00",
+		},
+
+		{ 
+		"id": 3, 
+		"produto": "Playstation 3",
+		"preço": "R$1.500,00",
+		},
+
+		{ 
+		"id": 4, 
+		"produto": "Playstation 2",
+		"preço": "R$1.000,00",
+		},
+
+		{ 
+		"id": 5, 
+		"produto": "Playstation 1",
+		"preço": "R$500,00",
+		}
+
+	]
+}
